@@ -1,0 +1,13 @@
+{
+    "name": "midnite81/random",
+    "description": "A random package for test purposes",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Rogers",
+            "email": "webdev@centralblue.co.uk"
+        }
+    ],
+    "require": {}
+}
